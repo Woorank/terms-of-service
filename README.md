@@ -5,19 +5,6 @@ WooRank is an online service from WooRank srl (hereinafter "WooRank", "we" or "u
 YOUR ACCESSING THIS WEB SITE AND USE OF THE SERVICES SIGNIFIES THAT YOU AGREE TO THE FOLLOWING TERMS OF SERVICE AND YOU CONSENT TO THE FOLLOWING TERMS AND CONDITIONS ("TERMS OF SERVICE") DISCLOSED HEREIN. YOU AND WOORANK INTEND THAT THIS IS A BINDING LEGAL AGREEMENT. IF YOU DO NOT AGREE WITH ANY OR ALL OF THESE TERMS, DO NOT USE THE SERVICES. VIOLATION OF THESE TERMS OF SERVICE WILL RESULT IN THE TERMINATION OF YOUR ACCESS TO THE PRODUCT AND SERVICES.
 
 ## 1. CHANGES TO THE TERMS OF SERVICE
-You agree that we may provide to you required notices, agreements and other information concerning the WooRank Product and Services electronically. We will post the notices on the home page of WooRank or on the relevant web page of the applicable service.
-
-## 2. ELECTRONIC DELIVERY POLICY AND YOUR CONSENT
-You agree that we may provide to you required notices, agreements and other information concerning the WooRank Product and Services electronically. We will post the notices on the home page of WooRank or on the relevant web page of the applicable service.
-
-
-
-# Terms of Service
-WooRank is an online service from WooRank srl (hereinafter "WooRank", "we" or "us"). These Terms of Service govern your use of the WooRank software and any additional services offered by or available from WooRank (the "Product and Services"). Please read these Terms of Service carefully.
-
-YOUR ACCESSING THIS WEB SITE AND USE OF THE SERVICES SIGNIFIES THAT YOU AGREE TO THE FOLLOWING TERMS OF SERVICE AND YOU CONSENT TO THE FOLLOWING TERMS AND CONDITIONS ("TERMS OF SERVICE") DISCLOSED HEREIN. YOU AND WOORANK INTEND THAT THIS IS A BINDING LEGAL AGREEMENT. IF YOU DO NOT AGREE WITH ANY OR ALL OF THESE TERMS, DO NOT USE THE SERVICES. VIOLATION OF THESE TERMS OF SERVICE WILL RESULT IN THE TERMINATION OF YOUR ACCESS TO THE PRODUCT AND SERVICES.
-
-## 1. CHANGES TO THE TERMS OF SERVICE
 
 We may change these Terms of Service at any time. You can review the most current version of these terms by clicking on the "Terms of Service" hypertext link located at the bottom of our web pages. You are responsible for checking these terms periodically for changes. If you continue to use the Product and Services after we post changes to these Terms of Service, you are signifying your acceptance of the new terms. When such a change is made, we will update the "Last Updated" date at the end of this document.
 
@@ -200,10 +187,10 @@ If you are a subscriber to one or more Products or Services that are terminated,
 
 Any notices must be sent to WooRank in English at &#115;&#117;&#112;&#112;&#111;&#114;&#116;&#064;&#087;&#111;&#111;&#082;&#097;&#110;&#107;&#046;&#099;&#111;&#109;.
 
-WooRank
-150 Woodbury Road
-Suite 8
-Woodbury, NY 11797
+WooRank 
+150 Woodbury Road 
+Suite 8 
+Woodbury, NY 11797 
 
 ## 13. FAIR USE POLICY
 
