@@ -187,10 +187,10 @@ If you are a subscriber to one or more Products or Services that are terminated,
 
 Any notices must be sent to WooRank in English at &#115;&#117;&#112;&#112;&#111;&#114;&#116;&#064;&#087;&#111;&#111;&#082;&#097;&#110;&#107;&#046;&#099;&#111;&#109;.
 
-WooRank. 
-150 Woodbury Road. 
-Suite 8. 
-Woodbury, NY 11797. 
+WooRank<br>
+150 Woodbury Road<br>
+Suite 8<br>
+Woodbury, NY 11797<br>
 
 ## 13. FAIR USE POLICY
 
