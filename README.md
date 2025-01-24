@@ -123,7 +123,7 @@ WE SHALL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR E
 
 ## 7. INDEMNIFICATION
 
-Upon a request by us, you agree to defend, indemnify, and hold harmless us and our parent and other affiliated companies, and our respective employees, contractors, officers, directors, and agents from all liabilities, claims, and expenses, including attorney's fees that arise from your use or misuse of WooRank Product and Services. We reserve the right, at our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, in which event you will cooperate with us in asserting any available defenses.
+Upon a request by us, you agree to defend, indemnify, and hold harmless us and our parent and other affiliated companies, and our respective employees, contractors, officers, directors, and agents from all liabilities, claims, and expenses, including reasonable attorney's fees to the extent caused by your use or misuse of WooRank Product and Services. We reserve the right, at our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, in which event you will cooperate with us in asserting any available defenses.
 
 ## 8. CHOICE OF LAW AND LOCATION FOR RESOLVING DISPUTES
 
@@ -163,7 +163,7 @@ Fees, rate limits and effective dates for the Product and Services are negotiate
 
 An upgrade from any plan to any more expensive paying plan will be pro-rated. You will be billed the pro-rated fee immediately upon upgrading.
 
-The Services are billed in advance on a monthly basis for monthly plans, and a yearly basis for yearly plans.
+Services are annual contracts. Services are billed in advance on a monthly basis for the annual term.
 
 There will be no refunds or credits for partial months of service, upgrade/downgrade refunds, or refunds for months unused with an open account.
 
@@ -171,7 +171,7 @@ Any questions regarding your plan can be directed via email request in English, 
 
 All fees are exclusive of all taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes, levies, or duties, excluding only VAT when a valid number is provided.
 
-For any upgrade or downgrade in plan level, your credit card or PayPal account that you provided will automatically be charged the new rate on your next billing cycle. However, your account will be pro-rated in the next billing cycle(s) when a downgrade occurs.
+For any upgrade in plan level, your credit card that you provided will automatically be charged the new rate on your next billing cycle. However, your account will be pro-rated in the next billing cycle(s) when a downgrade occurs.
 
 Downgrading your Service may cause the loss of content, features, or capacity of your account. WooRank does not accept any liability for such loss. Prices of any Product and Service may change. Notice of pricing changes may be provided by contacting you using the contact information you have provided to us. WooRank will not be liable to you or to any third party for any modifications, price changes, or suspension or discontinuation of the Product or Services.
 
@@ -188,8 +188,8 @@ If you are a subscriber to one or more Products or Services that are terminated,
 Any notices must be sent to WooRank in English at &#115;&#117;&#112;&#112;&#111;&#114;&#116;&#064;&#087;&#111;&#111;&#082;&#097;&#110;&#107;&#046;&#099;&#111;&#109;.
 
 WooRank<br>
-150 Woodbury Road<br>
-Suite 8<br>
+c/o Bridgeline Digital<br>
+150 Woodbury Road – 2nd Floor<br>
 Woodbury, NY 11797<br>
 
 ## 13. FAIR USE POLICY
@@ -209,4 +209,4 @@ Such users who exhibit behaviors beyond the norm of justified high usage and hav
 WooRank wishes to keep its customers satisfied, even those who are in violation of the Fair Use Policy, because we acknowledge that this might not be intentional. Excessive reporting may be met with a wait time message, evening out the load on the system for all users. In extenuating circumstances, if we invoke the Fair Use Policy by limiting or halting the Product and Service, impacted users can contact &#115;&#117;&#112;&#112;&#111;&#114;&#116;&#064;&#087;&#111;&#111;&#082;&#097;&#110;&#107;&#046;&#099;&#111;&#109; to learn more or regain access with a tailored Enterprise plan that better fits their needs.
 
 
-Last Updated: March 28, 2022
+Last Updated: January 24, 2025
